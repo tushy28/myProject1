@@ -1,3 +1,5 @@
+This is AWS training
+
 https://amazon.qwiklabs.com/
 
 https://explore.skillbuilder.aws/learn
